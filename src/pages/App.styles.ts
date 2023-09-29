@@ -8,6 +8,11 @@ export const Container = styled.div`
   justify-content: space-evenly;
   height: 100vh;
   background-image: url(${backgroundImage});
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+
 
   @media (max-width: 1000px) {
     flex-direction: column;
@@ -55,7 +60,7 @@ export const ContainerButton = styled.div`
   margin-top: 50px;
 
   img {
-    width: 180px;
+    width: 80px;
   }
 
   @media (max-width: 1000px) {
@@ -67,12 +72,12 @@ export const Button = styled.button`
   height: 55px;
   margin-top: 70px;
   position: absolute;
-  background-color: #dba90d;
+  background-color: #cb991a;
   border: none;
   border-radius: 10px;
   outline: none;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
-    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   font-size: 20px;
   font-weight: 500;
   line-height: 42px;

@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import Card from "../components/Card/Card";
 import {
   Container,
   LogoContainer,
@@ -9,12 +8,13 @@ import {
   Button
 } from "./App.styles";
 import logo from "../assets/img/logo.png";
-import yoda from "../assets/img/yoda.png";
+import totoro from "../assets/img/totoro.png";
 
 import { createBoard } from "../Utils/setup";
 import { shuffleArray } from "../Utils/utils";
 
 import { CardType } from "../Utils/setup";
+import Card from "../Card/Card";
 
 const App = () => {
   const timeout = 1000;
@@ -91,12 +91,11 @@ const App = () => {
       <Container>
         <LogoContainer>
           <Logo src={logo} alt="logo" />
-          <h1>Lucas Saliba</h1>
           {gameWon &&
           <ContainerButton>
-            <img src={yoda} alt="yoda" />
+            <img src={totoro} alt="totoro" />
             <Button type="submit" onClick={refreshPage}>
-              Jogar de Novo
+              New game
             </Button>
           </ContainerButton>}
         </LogoContainer>

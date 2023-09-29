@@ -1,6 +1,6 @@
 import React from "react";
-import { CardType } from "../../Utils/setup";
 import { Wrapper, FrontImg, BackImg } from "./Card.styles";
+import {CardType} from "../Utils/setup";
 
 type Props = {
   card: CardType;
