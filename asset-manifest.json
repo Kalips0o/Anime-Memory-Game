@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Anime-Memory-Game/static/css/main.716a1a36.css",
+    "main.js": "/Anime-Memory-Game/static/js/main.1466f761.js",
+    "static/js/787.88f97ea9.chunk.js": "/Anime-Memory-Game/static/js/787.88f97ea9.chunk.js",
+    "static/media/backgroundImage.png": "/Anime-Memory-Game/static/media/backgroundImage.4aa4e943c8379fbca69e.png",
+    "static/media/card_8.jpg": "/Anime-Memory-Game/static/media/card_8.65e732ac92389671cd7f.jpg",
+    "static/media/card_4.jpg": "/Anime-Memory-Game/static/media/card_4.a6a78306ad20dead9990.jpg",
+    "static/media/card_5.jpg": "/Anime-Memory-Game/static/media/card_5.ca85a4babcbfc92c93e5.jpg",
+    "static/media/card_7.jpg": "/Anime-Memory-Game/static/media/card_7.1ff33df0343c8a61477b.jpg",
+    "static/media/card_2.jpg": "/Anime-Memory-Game/static/media/card_2.f3ee6f87708d0534d542.jpg",
+    "static/media/card_6.jpg": "/Anime-Memory-Game/static/media/card_6.74087fe5d1f8c9261434.jpg",
+    "static/media/card_3.jpg": "/Anime-Memory-Game/static/media/card_3.8af19ba19cbb3527430d.jpg",
+    "static/media/totoro.png": "/Anime-Memory-Game/static/media/totoro.d3e4db7d00cb88d95b2e.png",
+    "static/media/card_1.jpg": "/Anime-Memory-Game/static/media/card_1.5cba015f6470197b1a3a.jpg",
+    "static/media/logo.png": "/Anime-Memory-Game/static/media/logo.82be1e360473ab818958.png",
+    "index.html": "/Anime-Memory-Game/index.html",
+    "main.716a1a36.css.map": "/Anime-Memory-Game/static/css/main.716a1a36.css.map",
+    "main.1466f761.js.map": "/Anime-Memory-Game/static/js/main.1466f761.js.map",
+    "787.88f97ea9.chunk.js.map": "/Anime-Memory-Game/static/js/787.88f97ea9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.716a1a36.css",
+    "static/js/main.1466f761.js"
+  ]
+}
