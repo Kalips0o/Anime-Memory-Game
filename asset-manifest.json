@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Anime-Memory-Game/static/css/main.716a1a36.css",
-    "main.js": "/Anime-Memory-Game/static/js/main.1466f761.js",
+    "main.js": "/Anime-Memory-Game/static/js/main.2e365789.js",
     "static/js/787.88f97ea9.chunk.js": "/Anime-Memory-Game/static/js/787.88f97ea9.chunk.js",
     "static/media/backgroundImage.png": "/Anime-Memory-Game/static/media/backgroundImage.4aa4e943c8379fbca69e.png",
     "static/media/card_8.jpg": "/Anime-Memory-Game/static/media/card_8.65e732ac92389671cd7f.jpg",
@@ -16,11 +16,11 @@
     "static/media/logo.png": "/Anime-Memory-Game/static/media/logo.82be1e360473ab818958.png",
     "index.html": "/Anime-Memory-Game/index.html",
     "main.716a1a36.css.map": "/Anime-Memory-Game/static/css/main.716a1a36.css.map",
-    "main.1466f761.js.map": "/Anime-Memory-Game/static/js/main.1466f761.js.map",
+    "main.2e365789.js.map": "/Anime-Memory-Game/static/js/main.2e365789.js.map",
     "787.88f97ea9.chunk.js.map": "/Anime-Memory-Game/static/js/787.88f97ea9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.716a1a36.css",
-    "static/js/main.1466f761.js"
+    "static/js/main.2e365789.js"
   ]
 }
