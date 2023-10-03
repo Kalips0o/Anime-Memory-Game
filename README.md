@@ -1,4 +1,4 @@
-Anime-Memory-Game
+#Anime-Memory-Game
 "Anime Memory Game" is an exciting and captivating game created using React and TypeScript, allowing you to test your memory and love for Studio Ghibli anime. In this game, you will need to uncover cards featuring characters from popular Studio Ghibli movies and animations and match them.
 
 ● Theme: Studio Ghibli Anime.
@@ -13,8 +13,8 @@ The Studio Ghibli team has created engaging and colorful character images, makin
 
 <br><br/>
 
-<img align="center" src="Print1.png"/>
+<img align="center" src="Print1.jpg"/>
 <br><br/>
-<img align="center" src="Print2.png"/>
+<img align="center" src="Print2.jpg"/>
 <br><br/>
-<img align="center" src="Print3.png"/>
+<img align="center" src="Print3.jpg"/>
