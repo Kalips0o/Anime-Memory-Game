@@ -13,7 +13,6 @@ export const Container = styled.div`
   background-repeat: no-repeat;
 
 
-
   @media (max-width: 1000px) {
     flex-direction: column;
     justify-content: center;
@@ -24,15 +23,16 @@ export const Container = styled.div`
 
 export const LogoContainer = styled.div`
   flex-direction: column;
+
   h1 {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
-      Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 44px;
     font-weight: 500;
     line-height: 52px;
     text-align: center;
     color: #d1f4ff;
-    text-shadow: 0px 2px 29px #90d8ef;
+    text-shadow: 0 2px 29px #90d8ef;
     margin-top: 20px;
 
     @media (max-width: 1000px) {
@@ -83,12 +83,12 @@ export const Button = styled.button`
   line-height: 42px;
   text-align: center;
   color: #d1f4ff;
-  text-shadow: 0px 2px 29px #90d8ef;
+  text-shadow: 0 2px 29px #90d8ef;
   cursor: pointer;
 
   :hover {
-    text-shadow: 0px 0px 14px #90d8ef;
-    box-shadow: 0px 6px 60px #dba90d;
+    text-shadow: 0 0 14px #90d8ef;
+    box-shadow: 0 6px 60px #dba90d;
   }
 
   @media (min-width: 1000px) {

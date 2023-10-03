@@ -1,4 +1,4 @@
-import styled, {css} from "styled-components";
+import styled, { css } from "styled-components";
 
 export const Wrapper = styled.div`
   position: relative;
@@ -25,15 +25,15 @@ const sharedStyles = css`
 
 export const FrontImg = styled.img<Props>`
   ${sharedStyles}
-  z-index: ${props => (props.flipped ? 2 : 1)};
+  z-index ${props => (props.flipped ? 2 : 1)}; 
   transform: ${props => (props.flipped ? "rotate(0deg)" : "rotateY(180deg)")};
 `;
 
 export const BackImg = styled.img<Props>`
   ${sharedStyles}
-  z-index: ${props => (props.flipped ? 1 : 2)};
+  z-index ${props => (props.flipped ? 1 : 2)};
   transform: ${props => (props.flipped ? "rotateY(180deg)" : "rotate(360deg)")};
   position: absolute;
-  top: 0px;
-  left: 0px;
+  top: 0;
+  left: 0;
 `;
