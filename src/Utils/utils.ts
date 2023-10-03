@@ -1,4 +1,5 @@
-//Shuffle array of cards 
+//Shuffle array of cards
+//Перемешать массив карт
 export const shuffleArray = (arr: any[]): any[] => {
   return arr
     .map(a => [Math.random(), a])
